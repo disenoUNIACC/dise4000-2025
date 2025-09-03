@@ -27,7 +27,7 @@
 
 ## Tarea 3
 * ACEVEDO LIZANA VICENTE ANDRÉS
-* ARRIAGADA ZAMBRANO JAVIERA ANTONIA
+* ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea3-Lab
 * CAMACHO CASTRO ALEJANDRO
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2003%20web
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%203 
