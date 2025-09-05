@@ -18,7 +18,7 @@
 * CAMACHO CASTRO ALEJANDRO
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/tarea%2002%20WEB
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/tree/main/Tarea%203
-* LLANOS IBARRA DANIEL JOSÉ
+* LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/danielarchivos
 * MOLINA GAONA POLYANA MICAELA
 * PEREZ SUAREZ RUTH EMIRBELYS
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
