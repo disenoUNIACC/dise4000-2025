@@ -10,7 +10,7 @@
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-1
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/laboratorio-web-solemne-1/tree/main/Solenme%201%20Geraldine%20Polo%20Vigo
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/laboratorio-web-solemne-1/tree/main/Solemne%201
-* RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
+* RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES https://github.com/Kherianne/Solemne1/blob/main/SOLEMNE1.zip
 * RUIZ ALMA CELESTE https://github.com/almaruizz/laboratorio-web-solemne-1
 * VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/laboratorio-web-solemne-1
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/laboratorio-web-solemne-1
