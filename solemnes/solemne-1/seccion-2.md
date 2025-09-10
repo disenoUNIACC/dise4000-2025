@@ -1,5 +1,5 @@
 # Solemne 1, Sección 2
-* AMBLA DELGADO SAILY VALENTINA
+* AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/laboratorio-web-solemne-1/tree/main/solemne1
 * BOASSI VILLALOBOS CATALINA PAZ https://github.com/CodedByM0chii/laboratorio-web-solemne-1
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/laboratorio-web-solemne-1/tree/main/solemne%201
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/laboratorio-web-solemne-1/tree/main/Solemne1_Amanda
