@@ -47,7 +47,7 @@
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES
 * RUIZ ALMA CELESTE
 * VARELA GUERRERO CATALINA ALEJANDRA
-* VEGA HERRERA VICENTE JAVIER
+* VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Tarea3
 
 ## Tarea 4
 * AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea4
