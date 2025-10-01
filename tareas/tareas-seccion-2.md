@@ -67,7 +67,7 @@
 * VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/CatoVarelaTrabajos/tree/main/Clase
 
 ## Tarea 5
-* AMBLA DELGADO SAILY VALENTINA
+* AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/tarea%206
 * BOASSI VILLALOBOS CATALINA PAZ
 * CARRASCO HERNÁNDEZ AMANDA CELESTE
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA
