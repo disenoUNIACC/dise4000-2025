@@ -68,7 +68,7 @@
 * ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%206
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
 * CAMACHO CASTRO ALEJANDRO
-* ESPINOZA GAC JAVIERA BELÉN
+* ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2006%20web
 * CAMPOS RANGEL ANNTONELLA MERCEDES FE https://github.com/Annto24/Tareas-Laboratorio-Web/blob/main/Tarea6/Tarea6-AnntonellaCampos.html
 * LLANOS IBARRA DANIEL JOSÉ
 * MOLINA GAONA POLYANA MICAELA
