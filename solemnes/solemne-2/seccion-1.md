@@ -1,5 +1,5 @@
 # Solemne 2, Sección 1
-* ACEVEDO LIZANA VICENTE ANDRÉS
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/laboratorio-web-solemne-2/tree/main/laboratorio-web-solemne-2
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA
 * ESPINOZA GAC JAVIERA BELÉN
 * CAMACHO CASTRO ALEJANDRO
