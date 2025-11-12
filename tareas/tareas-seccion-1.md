@@ -78,7 +78,7 @@
 * VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/tarea-6
 
 ## Tarea 7
-* ACEVEDO LIZANA VICENTE ANDRÉS 
+* ACEVEDO LIZANA VICENTE ANDRÉS https://github.com/vicente-acevedo/Tareas-Laboratorio-Web/tree/main/Tarea%207
 * ARRIAGADA ZAMBRANO JAVIERA ANTONIA https://github.com/dollipetals/trabajos-lab-web/tree/main/Tarea%207-Lab
 * CAMACHO CASTRO ALEJANDRO 
 * ESPINOZA GAC JAVIERA BELÉN https://github.com/jaavisss/entregasweb/tree/main/TAREA%2007
