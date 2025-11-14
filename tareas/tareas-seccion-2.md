@@ -78,7 +78,7 @@
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/blob/main/clase%205/clase%205/index.html
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%205/index.html
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%205/index.html
-* RÍOS VELÁSQUEZ SAMAEL KHERIANNE
+* RÍOS VELÁSQUEZ SAMAEL KHERIANNE https://github.com/Kherianne/Tareas---Lab2/tree/main/Tarea%205
 * RUIZ ALMA CELESTE https://github.com/almaruizz/WEB/tree/main/tarea
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Clase%206
 * VARELA GUERRERO CATALINA ALEJANDRA
@@ -95,7 +95,7 @@
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/tarea%20clase%206
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%206/index.html
 * RAMOS DONOSO MARTINA IGNACIA 
-* RÍOS VELÁSQUEZ SAMAEL KHERIANNE
+* RÍOS VELÁSQUEZ SAMAEL KHERIANNE https://github.com/Kherianne/Tareas---Lab2/tree/main/tarea%206
 * RUIZ ALMA CELESTE 
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Tarea6
 * VARELA GUERRERO CATALINA ALEJANDRA
@@ -112,7 +112,7 @@
 * HINOJOSA POLANCO JAVIERA PAZ  
 * POLO VIGO GERALDINE JOCELYN 
 * RAMOS DONOSO MARTINA IGNACIA 
-* RÍOS VELÁSQUEZ SAMAEL KHERIANNE
+* RÍOS VELÁSQUEZ SAMAEL KHERIANNE https://github.com/Kherianne/Tareas---Lab2/tree/main/tarea%207
 * RUIZ ALMA CELESTE 
 * VEGA HERRERA VICENTE JAVIER 
 * VARELA GUERRERO CATALINA ALEJANDRA
