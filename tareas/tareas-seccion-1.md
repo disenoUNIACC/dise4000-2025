@@ -88,4 +88,4 @@
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Tarea%20de%20clase%207
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/upload/main
-* VIVANCO AMPUERO MARIANA SOFIA 
+* VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/tarea-7
