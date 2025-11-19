@@ -7,6 +7,6 @@
 * LLANOS IBARRA DANIEL JOSÉ https://github.com/annarts1/Laboratorio_web_solemne_2/blob/main/index.html
 * MOLINA GAONA POLYANA MICAELA https://github.com/PolyMolly/laboratorio-web-solemne-2
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Solemne2
-* RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
+* RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES https://github.com/CaroSmithOFC/Solemne-2_/tree/main/Solemne2_CarolinaRamos
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/upload/main
 * VIVANCO AMPUERO MARIANA SOFIA
