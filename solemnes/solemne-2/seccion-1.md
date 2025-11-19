@@ -9,4 +9,4 @@
 * PEREZ SUAREZ RUTH EMIRBELYS https://github.com/Ruth-sv/Tareas/tree/main/Solemne2
 * RAMOS CONTRERAS CAROLINA PAZ DE LOS ANGELES
 * RANGEL CAMACHO ANJHESMAR PAOLA https://github.com/anjhessmar/Tareas-Anjhe-Programaci-n/upload/main
-* VIVANCO AMPUERO MARIANA SOFIA
+* VIVANCO AMPUERO MARIANA SOFIA https://github.com/marianavivanco-debug/solemne-2
