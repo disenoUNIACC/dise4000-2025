@@ -11,6 +11,6 @@
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/portafolio-web
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/portafolio-web/blob/main/Encargo%203.pdf
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES https://github.com/Kherianne/Portafolio-Web
-* RUIZ ALMA CELESTE
+* RUIZ ALMA CELESTE https://github.com/almaruizz/Portafolio-WEB
 * VARELA GUERRERO CATALINA ALEJANDRA
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/portafolio-web/blob/main/portafolio-web-vicentevega.pdf
