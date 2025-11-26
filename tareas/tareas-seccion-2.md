@@ -78,7 +78,7 @@
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/blob/main/clase%205/clase%205/index.html
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%205/index.html
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/tree/main/tarea%205/index.html
-* RÍOS VELÁSQUEZ SAMAEL KHERIANNE
+* RÍOS VELÁSQUEZ SAMAEL KHERIANNE https://github.com/Kherianne/Tareas---Lab2/tree/main/Tarea%205
 * RUIZ ALMA CELESTE https://github.com/almaruizz/WEB/tree/main/tarea
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Clase%206
 * VARELA GUERRERO CATALINA ALEJANDRA
@@ -94,25 +94,25 @@
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/Trabajos/blob/main/clase6/index.html
 * HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/tarea%20clase%206
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%206/index.html
-* RAMOS DONOSO MARTINA IGNACIA 
-* RÍOS VELÁSQUEZ SAMAEL KHERIANNE
+* RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/Tareas_Web/blob/main/index.html
+* RÍOS VELÁSQUEZ SAMAEL KHERIANNE https://github.com/Kherianne/Tareas---Lab2/tree/main/tarea%206
 * RUIZ ALMA CELESTE 
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Tarea6
 * VARELA GUERRERO CATALINA ALEJANDRA
 
 ## Tarea 7
-* AMBLA DELGADO SAILY VALENTINA 
+* AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/Tarea-paginaweb/tree/main/TAREA%207
 * BOASSI VILLALOBOS CATALINA PAZ
-* CARRASCO HERNÁNDEZ AMANDA CELESTE
-* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA 
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/TareaAmandaCarrasco/blob/main/Tarea%207_Amanda%20Carrasco/index.html
+* CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/tareas-web-taller/blob/main/tarea%207/index.html
 * COMISSO PLESNIAK MARÍA VICTORIA 
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN 
 * MELLADO TORO BENJAMÍN ANTONIO 
-* HINOJOSA POLANCO JAVIERA PAZ  
-* POLO VIGO GERALDINE JOCELYN 
+* HINOJOSA POLANCO JAVIERA PAZ  https://github.com/Jyokoo/Tareas/tree/main/clase%207/clase%207
+* POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/Trabajoclase2Geraldine-Polo-Vigo/blob/main/Tarea%207/index.html
 * RAMOS DONOSO MARTINA IGNACIA 
-* RÍOS VELÁSQUEZ SAMAEL KHERIANNE
+* RÍOS VELÁSQUEZ SAMAEL KHERIANNE https://github.com/Kherianne/Tareas---Lab2/tree/main/tarea%207
 * RUIZ ALMA CELESTE 
-* VEGA HERRERA VICENTE JAVIER 
+* VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/Tareas-paginaweb/tree/main/Tarea%207
 * VARELA GUERRERO CATALINA ALEJANDRA
