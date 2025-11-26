@@ -12,5 +12,5 @@
 * RAMOS DONOSO MARTINA IGNACIA https://github.com/Martina9990/portafolio-web/blob/main/Encargo%203.pdf
 * RÍOS VELÁSQUEZ CATALINA DE LOS ANGELES https://github.com/Kherianne/Portafolio-Web
 * RUIZ ALMA CELESTE https://github.com/almaruizz/Portafolio-WEB
-* VARELA GUERRERO CATALINA ALEJANDRA
+* VARELA GUERRERO CATALINA ALEJANDRA https://github.com/catalinavarela-source/portafolio-web 
 * VEGA HERRERA VICENTE JAVIER https://github.com/ViceeCBR/portafolio-web/blob/main/portafolio-web-vicentevega.pdf
