@@ -5,7 +5,7 @@
 * CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/portafolio-web/blob/main/Solemnee%203/Portafolio%20Solemne%203_Amy.pdf
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/portafolio-web/tree/main
 * GODOY MEDINA ALONSO JAVIER
-* GONZÁLEZ VALENZUELA CATALINA BELÉN
+* GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/laboratorio-web-solemne-3/tree/main/Solemne%203
 * HINOJOSA POLANCO JAVIERA PAZ https://github.com/Jyokoo/laboratorio-web-solemne-3
 * MELLADO TORO BENJAMÍN ANTONIO https://github.com/BenjaXminN/laboratorio-web-solemne-3
 * POLO VIGO GERALDINE JOCELYN https://github.com/Geraldinejocelyn/portafolio-web
