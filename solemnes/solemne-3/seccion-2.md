@@ -2,7 +2,7 @@
 * AMBLA DELGADO SAILY VALENTINA https://github.com/sailyambla/portafolio-web
 * BOASSI VILLALOBOS CATALINA PAZ https://github.com/CodedByM0chii/portafolio-web
 * CARQUEN RODRÍGUEZ AGUSTINA IGNACIA https://github.com/agustinacarquen192-max/portafolio-web/tree/main/solemne%203
-* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/portafolio-web/blob/main/Solemnee%203/Portafolio%20Solemne%203_Amy.pdf
+* CARRASCO HERNÁNDEZ AMANDA CELESTE https://github.com/Amandacelest/portafolio-web/tree/main/Extracci%C3%B3n%20Potafolio%20Amanda/Portafolio%20Amanda%20entrega
 * COMISSO PLESNIAK MARÍA VICTORIA https://github.com/mariacomisso-gif/portafolio-web/tree/main
 * GODOY MEDINA ALONSO JAVIER
 * GONZÁLEZ VALENZUELA CATALINA BELÉN https://github.com/catagonzalez99/laboratorio-web-solemne-3/tree/main
